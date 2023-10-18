@@ -1,0 +1,105 @@
+ *{
+  margin:0;
+  padding:0;
+ }
+ 
+ body{
+  color:black ;
+  background-color:aliceblue;
+  font-family: 'Lato', sans-serif;
+font-family: 'Lora', serif;
+ }
+ 
+ 
+ .container{
+  max-width: 1000px;
+  background-color:aqua;
+margin:0 auto;
+padding:20px;
+ }
+ .phato{
+  width:100px;
+  height:120px;
+  border-radius:3px solid red;
+  border-radius:50%;
+  float:left;
+ }
+ .bio{
+  float:left;
+  padding:30px;
+ }
+.contact{
+  float:right;
+  padding:20px;
+}
+
+ .contact a{
+text-decoration: none;
+color:blueviolet;
+font-weight:bold;
+ }
+ .contact a:hover{
+  text-decoration: underline;
+color:tomato;
+ }
+ .div-c{
+  clear:both;
+ }
+ hr{
+border:solid black 1px;
+width:100%;
+margin:20px auto;
+border-bottom: none;
+ }
+
+ #paesonal{
+
+ }
+ .con{
+margin-bottom: 30px;
+ }
+
+.L{
+width:30%;
+float:left;
+
+}
+.R{
+width:70%;
+float:left;
+}
+.common-hr{
+  border:solid black 1px;
+  border-bottom: none;
+  width:100%;
+  margin:20px auto;
+}
+
+.ed-l{
+float:left;
+width:50%;
+ 
+}
+
+.ed-r{
+float:right;
+width:50%;
+  
+}
+
+.new{
+  color:white;
+ background-color: black;
+ text-align:center; 
+ padding:10px;
+}
+
+.new a{
+  color:white;
+  text-decoration:none;
+  margin:20px;
+}
+
+.new p{
+  margin-top:20px;
+}
